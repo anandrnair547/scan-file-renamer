@@ -5,7 +5,7 @@ from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter
 
 # Define the folder path
-folder_path = "/Users/anandrnair/Downloads/Scans"
+folder_path = "<full path>"
 
 # Check if the folder exists
 if not os.path.exists(folder_path):
